@@ -1,0 +1,1 @@
+python test_slot.py --test_file data/slot/test.json --ckpt_path ckpt/slot/model_33ep.ckpt --pred_file pred.slot.csv --max_len 35 --batch_size 2048 --device cuda

@@ -1,0 +1,1 @@
+python train_intent.py --ckpt_dir ckpt/intent --dropout 0.1 --num_layers 2 --batch_size 2048 --device cuda --save_ep 1 --num_epoch 50 --max_len 32 --lr 0.001

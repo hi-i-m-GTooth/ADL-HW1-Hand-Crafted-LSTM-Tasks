@@ -1,0 +1,11 @@
+python train_slot.py --ckpt_dir ckpt/slot --dropout 0.8 \
+                                          --num_layers 4 \
+                                          --batch_size 4096 \
+                                          --device cuda \
+                                          --save_ep 1 \
+                                          --num_epoch 150 \
+                                          --max_len 35 \
+                                          --lr 0.01 \
+                                          --bidirectional 1 \
+                                          --sch_ep 20 \
+                                          --sch_gamma 0.5

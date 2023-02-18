@@ -1,0 +1,1 @@
+python test_intent.py --test_file data/intent/test.json --ckpt_path ckpt/intent/model_49ep.ckpt --pred_file pred.intent.csv --batch_size 128 --device cuda
