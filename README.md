@@ -1,4 +1,4 @@
-# NTU-ADL-HW1-R11922A16-柳宇澤
+# NTU-ADL-HW1-Hand-Crafted-LSTM-Tasks
 
 ## Prediction
 
